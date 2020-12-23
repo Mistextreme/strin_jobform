@@ -23,7 +23,6 @@ $(function () {
             if(item.status == true) {
                 display(true);
                 setData(item);
-                $
                 form_job = item.job
             } else {
                 display(false);
