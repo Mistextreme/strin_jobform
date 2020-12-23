@@ -33,6 +33,16 @@ Config.Forms = {
 }
 ```
 
+#### (Server) Webhook Config:
+
+- police = 'webhook url'
+```lua
+sConfig.Webhooks = {
+    police = '',
+	ambulance = ''
+}
+```
+
 ### Features:
 - Add as many forms as you want!
 - Easy configuration.
